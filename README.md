@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<img src="https://effectivetypescript.com/images/cover-2e.jpg" alt="Effective TypeScript 2nd Edition Cover" style="float: left" height="250">
+
+I'm Dan, author of [_Effective TypeScript: 83 Specific Ways to Improve your TypeScript_][amzn]. The second edition came out in May 2024 and I'm [very excited about it!][blog].
+
+I write about TypeScript online at [effectivetypescript.com](https://effectivetypescript.com/).
+
 <!--
 **danvk/danvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[amzn]: https://amzn.to/3UjPrsK
+[blog]: https://effectivetypescript.com/2024/05/21/second-edition/
