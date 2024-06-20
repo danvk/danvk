@@ -4,7 +4,7 @@
 
 I'm Dan, author of [_Effective TypeScript: 83 Specific Ways to Improve your TypeScript_][amzn]. The second edition came out in May 2024 and I'm [very excited about it!][blog].
 
-[_Effective_-style books][effective] are aimed at developers who already know the nuts and bolts of a programming language, but want to learn how to use it more effectively. Rather than explaining the three ways to do X, an Effective book will tell you which to avoid, and which to use in which situation. By learning about usage, as well as the odd corners of TypeScript, you'll advance from a beginner or intermediate developer to a seasoned expert.
+[_Effective_-style books][effective] are aimed at developers who already know the nuts and bolts of a programming language, but want to learn how to use it more effectively. Rather than explaining the three ways to do X, an Effective book will tell you which one to use in which situation, and which to avoid entirely. By learning about usage, as well as the odd corners of TypeScript, you'll advance from a beginner or intermediate developer to a seasoned expert.
 
 I also write about TypeScript online at [effectivetypescript.com](https://effectivetypescript.com/), where you can find [sample items] from the book.
 
