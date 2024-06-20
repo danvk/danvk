@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://effectivetypescript.com/images/cover-2e.jpg" alt="Effective TypeScript 2nd Edition Cover" style="float: left" height="250">
+<a href="https://amzn.to/3UjPrsK"><img src="https://effectivetypescript.com/images/cover-2e.jpg" alt="Effective TypeScript 2nd Edition Cover" style="float: left" height="250"></a>
 
 I'm Dan, author of [_Effective TypeScript: 83 Specific Ways to Improve your TypeScript_][amzn]. The second edition came out in May 2024 and I'm [very excited about it!][blog].
 
